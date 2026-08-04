@@ -1,0 +1,16 @@
+HOW TO PREVIEW BEFORE PUBLISHING
+
+Option 1 (Windows):
+1. Extract this ZIP.
+2. Double-click PREVIEW-WEBSITE.bat.
+3. The website will open in your default browser.
+
+Option 2:
+1. Extract this ZIP.
+2. Double-click index.html.
+
+HOW TO PUBLISH ON NETLIFY
+1. Sign in to Netlify.
+2. Open Add new site > Deploy manually.
+3. Drag this ZIP into the upload area.
+4. Open the generated link and test Home, Gallery, Contact and WhatsApp.
