@@ -1,0 +1,20 @@
+
+const header=document.getElementById('header');
+if(header){window.addEventListener('scroll',()=>header.classList.toggle('scrolled',scrollY>20),{passive:true});}
+const menuBtn=document.getElementById('menuBtn'),navLinks=document.getElementById('navLinks');
+if(menuBtn&&navLinks){menuBtn.addEventListener('click',()=>{const o=navLinks.classList.toggle('open');menuBtn.setAttribute('aria-expanded',o);menuBtn.textContent=o?'×':'☰'});navLinks.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{navLinks.classList.remove('open');menuBtn.textContent='☰';menuBtn.setAttribute('aria-expanded','false')}));}
+
+const slides=[...document.querySelectorAll('.hero-slide')],dots=[...document.querySelectorAll('.hero-dot')];
+if(slides.length&&dots.length){let slide=0;function showSlide(i){slides[slide]?.classList.remove('active');dots[slide]?.classList.remove('active');slide=i;slides[slide]?.classList.add('active');dots[slide]?.classList.add('active')}let heroTimer=setInterval(()=>showSlide((slide+1)%slides.length),5200);dots.forEach((d,i)=>d.addEventListener('click',()=>{clearInterval(heroTimer);showSlide(i);heroTimer=setInterval(()=>showSlide((slide+1)%slides.length),5200)}));}
+
+const cards=[...document.querySelectorAll('.gallery-card')],filterBtns=[...document.querySelectorAll('.filter-btn')],loadMore=document.getElementById('loadMore');let expanded=false,currentFilter='all';
+function applyFilter(f){if(!cards.length)return;currentFilter=f;filterBtns.forEach(b=>b.classList.toggle('active',b.dataset.filter===f));let matched=0;cards.forEach((c,i)=>{const match=f==='all'||c.dataset.category===f;c.classList.toggle('filtered-out',!match);if(match){matched++;if(expanded||i<18||f!=='all')c.classList.add('revealed');}});if(loadMore)loadMore.style.display=(f==='all'&&!expanded)?'inline-flex':'none';}
+if(cards.length){filterBtns.forEach(b=>b.addEventListener('click',()=>applyFilter(b.dataset.filter)));if(loadMore)loadMore.addEventListener('click',()=>{expanded=true;cards.forEach(c=>c.classList.add('revealed'));loadMore.style.display='none'});const query=new URLSearchParams(location.search).get('filter');if(query&&filterBtns.some(b=>b.dataset.filter===query))applyFilter(query);else applyFilter('all');}
+
+const lightbox=document.getElementById('lightbox'),lbImg=document.getElementById('lightboxImg'),lbTitle=document.getElementById('lightboxTitle'),lbText=document.getElementById('lightboxText'),lbClose=document.getElementById('lightboxClose');
+if(lightbox&&cards.length){function openCard(c){const img=c.querySelector('img');if(!img)return;lbImg.src=img.src;lbImg.alt=img.alt;lbTitle.textContent=c.querySelector('h3')?.textContent||'';lbText.textContent=c.querySelector('p')?.textContent||'';lightbox.classList.add('open');document.body.classList.add('no-scroll');lbClose?.focus()}cards.forEach(c=>{c.addEventListener('click',()=>openCard(c));c.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openCard(c)}})});function closeLB(){lightbox.classList.remove('open');document.body.classList.remove('no-scroll')}lbClose?.addEventListener('click',closeLB);lightbox.addEventListener('click',e=>{if(e.target===lightbox)closeLB()});document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLB()});}
+
+if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible')}),{threshold:.08});document.querySelectorAll('.reveal').forEach(el=>io.observe(el));}else{document.querySelectorAll('.reveal').forEach(el=>el.classList.add('visible'));}
+
+const quoteForm=document.getElementById('quoteForm');
+if(quoteForm){quoteForm.addEventListener('submit',e=>{e.preventDefault();const g=id=>document.getElementById(id)?.value.trim()||'';const text=`Hello TK Building & Renovation,\n\nI would like to request a quote.\n\nName: ${g('name')}\nPhone: ${g('phone')}\nEmail: ${g('email')||'Not provided'}\nService: ${g('service')}\nProject location: ${g('location')||'Not provided'}\nProject details: ${g('message')}`;window.open('https://wa.me/27764251247?text='+encodeURIComponent(text),'_blank','noopener')});}

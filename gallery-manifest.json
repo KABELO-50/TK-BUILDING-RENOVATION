@@ -1,0 +1,520 @@
+[
+  {
+    "stem": "02564caa-1a88-47dd-8c28-5e66e40b4371",
+    "category": "plant",
+    "title": "Tipper Truck",
+    "caption": "Heavy-duty transport support for material movement and site operations.",
+    "src": "assets/photos/plant-01.webp"
+  },
+  {
+    "stem": "03ed32fc-3049-4beb-a62d-876fc3690de1",
+    "category": "building",
+    "title": "Structural Building Progress",
+    "caption": "Blockwork, columns and openings taking shape during construction.",
+    "src": "assets/photos/building-01.webp"
+  },
+  {
+    "stem": "0464fe3a-b964-42a1-bdbd-a50377986386",
+    "category": "roofing",
+    "title": "Roof Repair Work",
+    "caption": "Roofing structure opened for repair and replacement work.",
+    "src": "assets/photos/roofing-01.webp"
+  },
+  {
+    "stem": "04b262be-bd79-4fa7-bd79-e1694cef7f39",
+    "category": "she",
+    "title": "Site Supervision",
+    "caption": "Site-ready supervision with PPE and project documentation.",
+    "src": "assets/photos/she-01.webp"
+  },
+  {
+    "stem": "0cfcaed2-1225-41dc-acf0-aa0544998898",
+    "category": "maintenance",
+    "title": "Doorway Finishing",
+    "caption": "Plastering and finishing around a doorway during renovation work.",
+    "src": "assets/photos/maintenance-01.webp"
+  },
+  {
+    "stem": "0f527347-e854-4ff0-98da-7fafdc2d5603",
+    "category": "foundation",
+    "title": "Foundation Wall Construction",
+    "caption": "Foundation walls being built and prepared for the next structural stage.",
+    "src": "assets/photos/foundation-01.webp"
+  },
+  {
+    "stem": "0f774975-249c-47ba-a371-d5b3eebcb5e9",
+    "category": "foundation",
+    "title": "New Extension Foundation",
+    "caption": "Foundation blockwork for a new building or extension.",
+    "src": "assets/photos/foundation-02.webp"
+  },
+  {
+    "stem": "1b0ae15e-29b9-4567-b9e5-6863a869246b",
+    "category": "maintenance",
+    "title": "Bathroom Refurbishment",
+    "caption": "Bathroom area assessed and prepared for repair and refurbishment.",
+    "src": "assets/photos/maintenance-02.webp"
+  },
+  {
+    "stem": "1c5423bd-47bd-46c6-bd8f-6a4199915939",
+    "category": "building",
+    "title": "Masonry Structure",
+    "caption": "External walls and openings under construction.",
+    "src": "assets/photos/building-02.webp"
+  },
+  {
+    "stem": "22770fbe-1318-4731-8fac-0d0b10341a97",
+    "category": "civil",
+    "title": "Road Surfacing",
+    "caption": "Asphalt placement and compaction for durable road surfacing.",
+    "src": "assets/photos/civil-01.webp"
+  },
+  {
+    "stem": "24055517-2f6e-4fb5-93ef-45c106385833",
+    "category": "civil",
+    "title": "Concrete Slab Work",
+    "caption": "Freshly finished concrete slab forming a strong project base.",
+    "src": "assets/photos/civil-02.webp"
+  },
+  {
+    "stem": "268851fa-812a-4ea3-b41f-96347ac0e9ea",
+    "category": "boundary",
+    "title": "Boundary Entrance Construction",
+    "caption": "Decorative masonry entrance and gate structure under construction.",
+    "src": "assets/photos/boundary-01.webp"
+  },
+  {
+    "stem": "2867aa39-44f6-4d72-baa0-c0fd1c048d64",
+    "category": "foundation",
+    "title": "Foundation Layout",
+    "caption": "Internal and external foundation walls defining the building footprint.",
+    "src": "assets/photos/foundation-03.webp"
+  },
+  {
+    "stem": "2a56a01e-1271-4234-b473-b3897031a20a",
+    "category": "building",
+    "title": "Roofed Residential Build",
+    "caption": "A residential structure progressing through roofing and external works.",
+    "src": "assets/photos/building-03.webp"
+  },
+  {
+    "stem": "32b362f9-80ef-4954-9f99-9c30a1cd96ad",
+    "category": "civil",
+    "title": "Concrete Access Walkway",
+    "caption": "Neat concrete access paths formed for safe movement around the property.",
+    "src": "assets/photos/civil-03.webp"
+  },
+  {
+    "stem": "33464357-d7a4-4558-821f-ab558afe8ab1",
+    "category": "maintenance",
+    "title": "Air-Conditioning Installation",
+    "caption": "External air-conditioning unit installed as part of property services.",
+    "src": "assets/photos/maintenance-03.webp"
+  },
+  {
+    "stem": "34f3db21-650d-4555-bffd-7d2b375966d0",
+    "category": "roofing",
+    "title": "Roofing Maintenance",
+    "caption": "Roof work in progress on a tiled residential structure.",
+    "src": "assets/photos/roofing-02.webp"
+  },
+  {
+    "stem": "35098276-08e8-4dd2-be6b-a40b669f02b2",
+    "category": "civil",
+    "title": "Site Platform Preparation",
+    "caption": "Team preparing a formed work area for concrete or equipment support.",
+    "src": "assets/photos/civil-04.webp"
+  },
+  {
+    "stem": "357de145-e542-4dfe-b8c1-f2688bd1f070",
+    "category": "boundary",
+    "title": "Entrance & Boundary Works",
+    "caption": "A wide entrance and boundary structure integrated with the site landscape.",
+    "src": "assets/photos/boundary-02.webp"
+  },
+  {
+    "stem": "39696ac5-9cef-4ae4-9e57-83d01e584a13",
+    "category": "building",
+    "title": "Residential Structure",
+    "caption": "Front elevation showing structural masonry and column work in progress.",
+    "src": "assets/photos/building-04.webp"
+  },
+  {
+    "stem": "42be71b0-1c88-4eab-885c-c4746a784553",
+    "category": "building",
+    "title": "Front Elevation Progress",
+    "caption": "Building shell with columns, openings and fa\u00e7ade details under development.",
+    "src": "assets/photos/building-05.webp"
+  },
+  {
+    "stem": "44a3c2ce-838e-4670-be83-2a50fd1db04d",
+    "category": "boundary",
+    "title": "Boundary Wall Masonry",
+    "caption": "Long masonry boundary wall aligned and built for property protection.",
+    "src": "assets/photos/boundary-03.webp"
+  },
+  {
+    "stem": "5551cacf-b70f-4842-bfbe-a35715368134",
+    "category": "plant",
+    "title": "Plant Support on Site",
+    "caption": "Backhoe loader supporting excavation, cleanup and site preparation.",
+    "src": "assets/photos/plant-02.webp"
+  },
+  {
+    "stem": "5d56c43f-0ecc-446e-96ce-5ded177a9d84",
+    "category": "maintenance",
+    "title": "Bathroom Upgrade in Progress",
+    "caption": "Bathtub and tiled surround undergoing refurbishment work.",
+    "src": "assets/photos/maintenance-04.webp"
+  },
+  {
+    "stem": "630972e7-2b88-4553-ad37-1cc83b3543e3",
+    "category": "building",
+    "title": "Plastered Building Finish",
+    "caption": "External plastering applied to prepare the structure for final finishes.",
+    "src": "assets/photos/building-06.webp"
+  },
+  {
+    "stem": "7385e893-4fc0-41f6-a791-133da62c9cb9",
+    "category": "building",
+    "title": "Completed Roof Structure",
+    "caption": "Residential structure with roof and main exterior construction completed.",
+    "src": "assets/photos/building-07.webp"
+  },
+  {
+    "stem": "772858ba-738c-4bc0-99a3-57861dcb94b1",
+    "category": "building",
+    "title": "Plaster & Roof Progress",
+    "caption": "Large residential structure progressing through plastering and roofing.",
+    "src": "assets/photos/building-08.webp"
+  },
+  {
+    "stem": "7772f7f8-6201-4557-a365-8bab59a0d376",
+    "category": "plant",
+    "title": "Tipper Truck Rear View",
+    "caption": "Site transport vehicle prepared for material hauling operations.",
+    "src": "assets/photos/plant-03.webp"
+  },
+  {
+    "stem": "77b3f3a8-0b5c-41c2-8b8a-590e3e873d72",
+    "category": "roofing",
+    "title": "Roof Truss Installation",
+    "caption": "Timber roof trusses assembled over the completed wall structure.",
+    "src": "assets/photos/roofing-03.webp"
+  },
+  {
+    "stem": "7d48f913-d664-424c-a3fd-8474c685a87b",
+    "category": "plant",
+    "title": "Site Logistics Support",
+    "caption": "Utility vehicle supporting materials and water-system work on site.",
+    "src": "assets/photos/plant-04.webp"
+  },
+  {
+    "stem": "7de6973f-91ed-466a-a52a-7cfe7fe8b5e8",
+    "category": "building",
+    "title": "External Plastering",
+    "caption": "New building receiving external plastering and finishing preparation.",
+    "src": "assets/photos/building-09.webp"
+  },
+  {
+    "stem": "8550f320-adfa-47a6-995b-123274c786de",
+    "category": "foundation",
+    "title": "Foundation Room Layout",
+    "caption": "Foundation walls forming the internal room layout of a new build.",
+    "src": "assets/photos/foundation-04.webp"
+  },
+  {
+    "stem": "85638c04-4b9c-4f81-af5a-96d5a84c1ac9",
+    "category": "maintenance",
+    "title": "Bathtub Replacement",
+    "caption": "Existing bathroom opened to install and secure a replacement bathtub.",
+    "src": "assets/photos/maintenance-05.webp"
+  },
+  {
+    "stem": "89acf3c0-23fe-4f4f-b09d-7eccb4c4ec6e",
+    "category": "building",
+    "title": "Column & Masonry Work",
+    "caption": "Front fa\u00e7ade showing column installation and masonry construction.",
+    "src": "assets/photos/building-10.webp"
+  },
+  {
+    "stem": "89b5d4bd-027a-40ee-8047-0b287fc20b95",
+    "category": "building",
+    "title": "Corner Structural Work",
+    "caption": "Corner view of the building shell during structural construction.",
+    "src": "assets/photos/building-11.webp"
+  },
+  {
+    "stem": "8ccafc42-984a-4d58-9ac4-92a209fb29eb",
+    "category": "building",
+    "title": "Active Building Site",
+    "caption": "Masonry and column work progressing across the front elevation.",
+    "src": "assets/photos/building-12.webp"
+  },
+  {
+    "stem": "8e1eb5dc-b3aa-411a-8bab-b10dbaf37319",
+    "category": "boundary",
+    "title": "Precast Boundary Wall",
+    "caption": "Worker installing decorative precast components into a boundary wall.",
+    "src": "assets/photos/boundary-04.webp"
+  },
+  {
+    "stem": "9066b510-106b-47bb-a12c-a3b7521c2db0",
+    "category": "roofing",
+    "title": "Roof Rehabilitation",
+    "caption": "Roof section opened and rebuilt as part of structural maintenance.",
+    "src": "assets/photos/roofing-04.webp"
+  },
+  {
+    "stem": "90c3eb14-6ecb-480e-b99a-27bdceb381f4",
+    "category": "structural",
+    "title": "Reinforcement Fabrication",
+    "caption": "Steel reinforcement being tied and prepared for concrete structural work.",
+    "src": "assets/photos/structural-01.webp"
+  },
+  {
+    "stem": "9144dc38-bf7b-41c2-8fe7-134af1c5a139",
+    "category": "foundation",
+    "title": "Foundation Extension Work",
+    "caption": "New foundation and blockwork being added beside an existing property.",
+    "src": "assets/photos/foundation-05.webp"
+  },
+  {
+    "stem": "91adc826-d2e5-43a0-be93-49980cb4e119",
+    "category": "foundation",
+    "title": "Concrete Footings",
+    "caption": "Excavated foundation trenches filled with concrete footings.",
+    "src": "assets/photos/foundation-06.webp"
+  },
+  {
+    "stem": "94054fc6-6c97-4c82-9502-fa40c6268db8",
+    "category": "boundary",
+    "title": "Long Boundary Wall",
+    "caption": "Extended masonry boundary wall construction across a large property.",
+    "src": "assets/photos/boundary-05.webp"
+  },
+  {
+    "stem": "95910e88-5751-4e33-a1d2-4d30344bb34c",
+    "category": "foundation",
+    "title": "Foundation Team at Work",
+    "caption": "Workers building and aligning foundation walls for a new structure.",
+    "src": "assets/photos/foundation-07.webp"
+  },
+  {
+    "stem": "95f1ab1f-1caa-4707-b4a1-84e543709084",
+    "category": "structural",
+    "title": "Rebar Beam Preparation",
+    "caption": "Reinforcing steel cage being assembled for structural concrete work.",
+    "src": "assets/photos/structural-02.webp"
+  },
+  {
+    "stem": "966be9c2-3369-4a9a-adec-4aa4bd173e17",
+    "category": "foundation",
+    "title": "Foundation Trenching",
+    "caption": "Excavated trenches and site setting-out before concrete placement.",
+    "src": "assets/photos/foundation-08.webp"
+  },
+  {
+    "stem": "976c63ed-7612-4f18-b2ab-ee2faa3059e2",
+    "category": "maintenance",
+    "title": "Electrical Installation",
+    "caption": "Electrical service work carried out with PPE and safe access equipment.",
+    "src": "assets/photos/maintenance-06.webp"
+  },
+  {
+    "stem": "9cd7500a-c0c2-4707-a4d6-3c626e9231f8",
+    "category": "building",
+    "title": "Blockwork Progress",
+    "caption": "Building walls rising to window and roof level during construction.",
+    "src": "assets/photos/building-13.webp"
+  },
+  {
+    "stem": "9f7cc11d-df5d-445c-8e96-ded6c5707825",
+    "category": "civil",
+    "title": "Concrete Porch Walkway",
+    "caption": "Fresh concrete walkway formed alongside the building entrance.",
+    "src": "assets/photos/civil-05.webp"
+  },
+  {
+    "stem": "a3399182-aa83-43af-b453-ce485108d945",
+    "category": "civil",
+    "title": "Perimeter Concrete Apron",
+    "caption": "Concrete apron constructed around the building for drainage and clean access.",
+    "src": "assets/photos/civil-06.webp"
+  },
+  {
+    "stem": "a5a4219f-c55e-44b0-bc0a-3db2768d7a58",
+    "category": "maintenance",
+    "title": "Bathroom Condition Assessment",
+    "caption": "Existing bathroom condition documented before refurbishment.",
+    "src": "assets/photos/maintenance-07.webp"
+  },
+  {
+    "stem": "a8b5a9fc-b939-45f6-9848-f5e46a6693ec",
+    "category": "building",
+    "title": "High-Level Masonry",
+    "caption": "Workers completing upper wall courses before roof installation.",
+    "src": "assets/photos/building-14.webp"
+  },
+  {
+    "stem": "ae7d20f1-20aa-41fc-ba80-b83e34422717",
+    "category": "maintenance",
+    "title": "Bathroom Installation Work",
+    "caption": "Technician working on bathtub replacement and surrounding finishes.",
+    "src": "assets/photos/maintenance-08.webp"
+  },
+  {
+    "stem": "b060f856-bda3-4993-a772-ad6474d8f891",
+    "category": "building",
+    "title": "Front Fa\u00e7ade Construction",
+    "caption": "Building fa\u00e7ade under construction with large window openings and columns.",
+    "src": "assets/photos/building-15.webp"
+  },
+  {
+    "stem": "b6990488-b1a3-48ad-a1e3-5f322b62c608",
+    "category": "boundary",
+    "title": "Gate & Column Installation",
+    "caption": "Metal gate fitted into a masonry entrance framed by decorative columns.",
+    "src": "assets/photos/boundary-06.webp"
+  },
+  {
+    "stem": "c201cd67-3b19-4928-8afc-32282ff5eb5f",
+    "category": "roofing",
+    "title": "Roof Tile Installation",
+    "caption": "Worker completing tiled roofing on a residential project.",
+    "src": "assets/photos/roofing-05.webp"
+  },
+  {
+    "stem": "c314f7c8-5091-4092-b3e3-e602f7969222",
+    "category": "boundary",
+    "title": "Boundary Wall Construction",
+    "caption": "Masonry boundary wall built with controlled line and level.",
+    "src": "assets/photos/boundary-07.webp"
+  },
+  {
+    "stem": "caf7f72d-3b65-4752-aef4-8f4117278536",
+    "category": "building",
+    "title": "Blockwork at Height",
+    "caption": "Masonry work progressing at upper wall level on a new structure.",
+    "src": "assets/photos/building-16.webp"
+  },
+  {
+    "stem": "cf01850c-8126-4c61-8c49-bf27d85c55dc",
+    "category": "building",
+    "title": "Brick & Block Structure",
+    "caption": "Mixed masonry fa\u00e7ade and openings under construction.",
+    "src": "assets/photos/building-17.webp"
+  },
+  {
+    "stem": "cf7f7a56-f89b-45e9-af97-0ac47f1f5f87",
+    "category": "civil",
+    "title": "Asphalt Compaction",
+    "caption": "Roller compaction creating a smooth and durable asphalt surface.",
+    "src": "assets/photos/civil-07.webp"
+  },
+  {
+    "stem": "cf8deab5-28cb-4544-a215-ce93407f1639",
+    "category": "roofing",
+    "title": "Roofing Progress",
+    "caption": "Large residential roof installation progressing across the new structure.",
+    "src": "assets/photos/roofing-06.webp"
+  },
+  {
+    "stem": "d44c9594-6958-4be6-89f5-d0df26d1c648",
+    "category": "civil",
+    "title": "Concrete Entrance Path",
+    "caption": "Freshly finished concrete path connecting the gate and property entrance.",
+    "src": "assets/photos/civil-08.webp"
+  },
+  {
+    "stem": "d46da0ed-8025-435d-9121-4d92ec8d32ec",
+    "category": "plant",
+    "title": "Backhoe Loader on Site",
+    "caption": "Plant equipment supporting construction, earthmoving and cleanup works.",
+    "src": "assets/photos/plant-05.webp"
+  },
+  {
+    "stem": "d5ecfe25-2536-4e75-bfd0-af2877598112",
+    "category": "foundation",
+    "title": "Foundation Wall Progress",
+    "caption": "Worker laying blockwork along a new foundation line.",
+    "src": "assets/photos/foundation-09.webp"
+  },
+  {
+    "stem": "da1c9119-bef3-4032-8aca-3ac84b95278d",
+    "category": "boundary",
+    "title": "Boundary Wall Installation",
+    "caption": "Worker fitting decorative wall components and masonry elements.",
+    "src": "assets/photos/boundary-08.webp"
+  },
+  {
+    "stem": "da33213d-51f8-4744-a391-3715c780ee59",
+    "category": "civil",
+    "title": "Concrete Gate Apron",
+    "caption": "New concrete gate apron finished for strong and clean vehicle access.",
+    "src": "assets/photos/civil-09.webp"
+  },
+  {
+    "stem": "dc6c33ba-076d-4a10-90e7-5c6a4775161a",
+    "category": "maintenance",
+    "title": "Bathroom Plumbing Repair",
+    "caption": "Bathtub and wall area opened for plumbing and repair work.",
+    "src": "assets/photos/maintenance-09.webp"
+  },
+  {
+    "stem": "e742e736-f190-46f4-a576-929b55f694f5",
+    "category": "maintenance",
+    "title": "Bathroom Strip-Out",
+    "caption": "Existing finishes removed to expose the work area for refurbishment.",
+    "src": "assets/photos/maintenance-10.webp"
+  },
+  {
+    "stem": "e84824c5-8945-4f06-a45d-74e67b984cb7",
+    "category": "building",
+    "title": "Masonry Wall Construction",
+    "caption": "Worker completing upper masonry courses on the building shell.",
+    "src": "assets/photos/building-18.webp"
+  },
+  {
+    "stem": "ebf20f66-a1a6-4a38-b766-8632238762e6",
+    "category": "she",
+    "title": "Field Site Work",
+    "caption": "Team carrying out site work in a rugged outdoor project environment.",
+    "src": "assets/photos/she-02.webp"
+  },
+  {
+    "stem": "ed44a2c7-6969-4927-b5a0-cf1734047ed8",
+    "category": "leadership",
+    "title": "Leadership Team Portrait",
+    "caption": "Professional portrait from the TK Building & Renovation team.",
+    "src": "assets/photos/leadership-01.webp"
+  },
+  {
+    "stem": "f6012f22-369a-47d8-950f-2e685fc676d8",
+    "category": "she",
+    "title": "Field Installation Team",
+    "caption": "Team working together on an outdoor installation with PPE.",
+    "src": "assets/photos/she-03.webp"
+  },
+  {
+    "stem": "f9f02555-33db-4f13-8143-67d500990d40",
+    "category": "leadership",
+    "title": "Leadership Team Portrait",
+    "caption": "Professional portrait from the TK Building & Renovation team.",
+    "src": "assets/photos/leadership-02.webp"
+  },
+  {
+    "stem": "fba5a98e-5de9-49f4-af51-a99ad1d2f34b",
+    "category": "building",
+    "title": "Masonry Structure Progress",
+    "caption": "Building walls and openings progressing toward roof level.",
+    "src": "assets/photos/building-19.webp"
+  },
+  {
+    "stem": "fc964306-4c98-4626-a88a-636edc862e49",
+    "category": "leadership",
+    "title": "Leadership Team Portrait",
+    "caption": "Professional portrait from the TK Building & Renovation team.",
+    "src": "assets/photos/leadership-03.webp"
+  }
+]
